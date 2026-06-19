@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AWS / secrets
+.env
+
+# Mac/Windows
+.DS_Store
